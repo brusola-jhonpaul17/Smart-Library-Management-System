@@ -10,6 +10,13 @@ Project Modules:
 - Inventory Management
 - Reports
 
+Member Management Module
+Features:
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
+
 Development Team
 Student Name: Brusola, Jhon Paul M.
 Course: IT 3012 - System Integration and Architecture 1
